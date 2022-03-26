@@ -1,0 +1,10 @@
+.hide{
+    display: none;
+}
+#block{
+    display:flex;
+    justify-content: space-between;
+}
+.inline-block{
+    display: inline-block;
+}
